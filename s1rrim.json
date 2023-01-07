@@ -1,0 +1,155 @@
+{
+  "name": "s1rrim",
+  "description": "alzheimer's s1rrim ",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "",
+      "id": "874346288680931400"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#000000"
+    ],
+    "HEADER_PRIMARY": [
+      "#3k0000",
+      "#460247"
+    ],
+    "HEADER_SECONDARY": [
+      "#3k0000",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFF0",
+      "#4dh67m"
+    ],
+    "TEXT_MUTED": [
+      "#FFFFF0",
+      "#264fnh"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#3k0000",
+      "#37ksl2"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#3k0000",
+      "#45jg68"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#3k0000",
+      "#16ml2d"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#WZ35LK",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#f1f3f6"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#retefl"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#6mdi78"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#174klm"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#f2f7f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#3k0000",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#3k0000",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#3k0000",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#3k0000"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#000000",
+      "#retefl"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#3k0000",
+      "#r4732m"
+    ],
+    "TEXT_LINK": [
+      "#FFEA00",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#3k0000",
+    "PRIMARY_DARK_100": "#3k0000",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#3k0000",
+    "PRIMARY_DARK_400": "#FFFFF0",
+    "PRIMARY_DARK_500": "#3k0000",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "PRIMARY_DARK_900": "#090909",
+    "BRAND_NEW": "#000000"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 1.0,
+    "url": "https://cdn.discordapp.com/attachments/1055302412711239820/1061374278534189066/IMG_3064.jpg",
+    "alpha": 3.0
+  }
+	}
